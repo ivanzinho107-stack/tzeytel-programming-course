@@ -1,0 +1,4 @@
+La arquitectura de software permite conectar diferentes sistemas.
+Algunas aplicaciones utilizan APIs para acceder a servicios externos.
+Aprender a programar no solo significa escribir código.
+A veces significa conectar sistemas que ya existen.
