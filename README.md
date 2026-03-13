@@ -1,2 +1,9 @@
-# tzeytel-programming-course
-Repositorio para mostrarle a Tzeytel cómo funciona Github. 
+# Curso de Lenguajes de Programación
+
+Repositorio con ejemplos utilizados en clase.
+
+Contiene:
+
+- consultas a APIs
+- ejemplos en Python
+- ejemplos en Google Apps Script
