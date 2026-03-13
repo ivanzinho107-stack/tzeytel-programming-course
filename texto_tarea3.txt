@@ -1,0 +1,14 @@
+Technology connects many systems in the modern world. 
+A simple program can read information from a file, process the data, 
+and send the results to another system. 
+
+For example, a program might read a text, identify important words, 
+and ask an online service for their meanings. The answers can then be 
+organized and stored in a table or a database.
+
+Software developers design programs so that different systems can 
+communicate with each other. A program written in one language can 
+request information from another system using an API.
+
+This ability to exchange data allows computers to work together and 
+solve complex problems.
