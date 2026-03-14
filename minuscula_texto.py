@@ -1,6 +1,7 @@
-with open("datos.txt", "r") as archivo:
-    texto = archivo.read()
+import requests
 
-palabras = texto.lower().split()
+url = "https://raw.githubusercontent.com/ivanzinho107-stack/tzeytel-programming-course/main/datos.txt"
 
-print(palabras)
+respuesta = requests.get(url)
+print(respuesta.status_code)
+print(respuesta.text.upper())
